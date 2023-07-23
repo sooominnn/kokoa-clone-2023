@@ -1,8 +1,8 @@
-.user-component,
 .user-component {
     justify-content: space-between;
 }
 
+.user-component,
 .user-component__column:first-child {
     display: flex;
     align-items: center;
@@ -49,4 +49,5 @@
 
 .user-component__time {
     margin-bottom: 10px;
-    display: block;}
+    display: block;
+}
